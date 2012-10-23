@@ -1,2 +1,1 @@
-SOURCES += \
-    rec-dir.cpp 
+SOURCES = rec-dir.cpp 
